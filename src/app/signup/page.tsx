@@ -1,6 +1,7 @@
 'use client';
 
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 export default function SignUp() {
@@ -106,15 +107,15 @@ export default function SignUp() {
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Welcome to Fitness Studio!</h2>
           <p className="text-gray-600 mb-6">
-            Thank you for signing up. We've sent a confirmation email to {formData.email}.
+            Thank you for signing up. We&apos;ve sent a confirmation email to {formData.email}.
             Our team will contact you shortly to complete your registration.
           </p>
-          <a
+          <Link
             href="/"
             className="inline-block bg-accent hover:bg-red-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-300"
           >
             Return Home
-          </a>
+          </Link>
         </div>
       </div>
     );
@@ -149,7 +150,7 @@ export default function SignUp() {
               <h1 className="text-3xl font-bold text-gray-900 mb-4">Sign Up Today</h1>
               <p className="text-gray-600">
                 Fill out the form below to start your fitness journey with us.
-                We'll get you set up with everything you need to succeed.
+                We&apos;ll get you set up with everything you need to succeed.
               </p>
             </div>
 

@@ -148,7 +148,7 @@ export default function Classes() {
               More Classes Coming Soon
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto fade-in-up" style={{ animationDelay: '0.2s' }}>
-              We're constantly expanding our class offerings to meet your fitness needs.
+              We&apos;re constantly expanding our class offerings to meet your fitness needs.
             </p>
           </div>
 

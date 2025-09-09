@@ -155,7 +155,7 @@ export default function Pricing() {
               Frequently Asked Questions
             </h2>
             <p className="text-lg text-gray-600 fade-in-up" style={{ animationDelay: '0.2s' }}>
-              Got questions? We've got answers.
+              Got questions? We&apos;ve got answers.
             </p>
           </div>
 
@@ -177,7 +177,7 @@ export default function Pricing() {
 
             <div className="bg-white rounded-lg shadow-md p-6 fade-in-up" style={{ animationDelay: '0.6s' }}>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">What are your operating hours?</h3>
-              <p className="text-gray-600">We're open 24/7 for members with premium access. Standard hours are 5 AM - 11 PM weekdays.</p>
+              <p className="text-gray-600">We&apos;re open 24/7 for members with premium access. Standard hours are 5 AM - 11 PM weekdays.</p>
             </div>
           </div>
         </div>

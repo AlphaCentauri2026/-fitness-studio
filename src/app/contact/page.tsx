@@ -99,7 +99,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto fade-in-up" style={{ animationDelay: '0.2s' }}>
-              Get in touch with our team. We're here to answer your questions and help you start your fitness journey.
+              Get in touch with our team. We&apos;re here to answer your questions and help you start your fitness journey.
             </p>
           </div>
         </div>
@@ -205,7 +205,7 @@ export default function Contact() {
                       </svg>
                     </div>
                     <h4 className="text-xl font-semibold text-gray-900 mb-2">Message Sent!</h4>
-                    <p className="text-gray-600">Thank you for contacting us. We'll get back to you soon.</p>
+                    <p className="text-gray-600">Thank you for contacting us. We&apos;ll get back to you soon.</p>
                   </div>
                 ) : (
                   <form onSubmit={handleSubmit} className="space-y-6">

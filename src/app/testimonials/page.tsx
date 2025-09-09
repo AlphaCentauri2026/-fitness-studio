@@ -115,7 +115,7 @@ export default function Testimonials() {
               What Our Members Say
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto fade-in-up" style={{ animationDelay: '0.2s' }}>
-              Don't just take our word for it. Hear from our community of fitness enthusiasts
+              Don&apos;t just take our word for it. Hear from our community of fitness enthusiasts
               who have transformed their lives with Fitness Studio.
             </p>
           </div>
@@ -151,7 +151,7 @@ export default function Testimonials() {
 
                   {/* Quote */}
                   <blockquote className="text-lg md:text-xl text-gray-700 mb-6 italic leading-relaxed">
-                    "{testimonials[currentSlide].text}"
+                    &ldquo;{testimonials[currentSlide].text}&rdquo;
                   </blockquote>
 
                   {/* Author Info */}
@@ -266,7 +266,7 @@ export default function Testimonials() {
                     </div>
                   </div>
                 </div>
-                <p className="text-gray-600 text-sm italic mb-3">"{testimonial.text.substring(0, 100)}..."</p>
+                <p className="text-gray-600 text-sm italic mb-3">&ldquo;{testimonial.text.substring(0, 100)}&hellip;&rdquo;</p>
                 <div className="text-accent text-sm font-medium">{testimonial.achievement}</div>
               </div>
             ))}
