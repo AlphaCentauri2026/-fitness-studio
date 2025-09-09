@@ -14,7 +14,7 @@ export default function SignUp() {
     membershipType: 'standard'
   });
 
-  const [errors, setErrors] = useState({});
+  const [errors, setErrors] = useState<Record<string, string>>({});
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -34,7 +34,7 @@ export default function SignUp() {
   ];
 
   const validateForm = () => {
-    const newErrors = {};
+    const newErrors: Record<string, string> = {};
 
     // Name validation
     if (!formData.name.trim()) {
