@@ -12,7 +12,7 @@ export default function Testimonials() {
       name: "Sarah Johnson",
       role: "Member since 2022",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_0.jpg",
+      image: "/images/Fitness studio images/pexels-pixabay-416717.jpg",
       text: "Fitness Studio has completely transformed my life. The trainers are incredibly knowledgeable and supportive. I've lost 30 pounds and gained so much confidence. The community here is amazing!",
       achievement: "Lost 30 lbs in 6 months"
     },
@@ -21,7 +21,7 @@ export default function Testimonials() {
       name: "Mike Chen",
       role: "Member since 2021",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_2.jpg",
+      image: "/images/Fitness studio images/pexels-ivan-samkov-4162451.jpg",
       text: "The variety of classes keeps me motivated. From HIIT to yoga, there's something for every mood and fitness level. The facility is always clean and the equipment is top-notch.",
       achievement: "Completed 5 marathons"
     },
@@ -30,7 +30,7 @@ export default function Testimonials() {
       name: "Emma Rodriguez",
       role: "Member since 2023",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_3.jpg",
+      image: "/images/Fitness studio images/pexels-willpicturethis-1954524.jpg",
       text: "As a busy mom, finding time for fitness was challenging. Fitness Studio's flexible scheduling and amazing childcare made it possible. I've never felt better!",
       achievement: "First marathon at 35"
     },
@@ -39,7 +39,7 @@ export default function Testimonials() {
       name: "David Thompson",
       role: "Member since 2020",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_3.jpg",
+      image: "/images/Fitness studio images/pexels-willpicturethis-1954524.jpg",
       text: "The personal training sessions have been life-changing. My trainer helped me recover from an injury and get stronger than ever. The nutrition guidance was invaluable.",
       achievement: "Bench press PR: 315 lbs"
     },
@@ -48,7 +48,7 @@ export default function Testimonials() {
       name: "Lisa Park",
       role: "Member since 2022",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_2.jpg",
+      image: "/images/Fitness studio images/pexels-ivan-samkov-4162451.jpg",
       text: "What I love most about Fitness Studio is the genuine care everyone shows. It's not just a gym, it's a community that supports your goals and celebrates your progress.",
       achievement: "Lost 50 lbs, kept it off"
     },
@@ -57,7 +57,7 @@ export default function Testimonials() {
       name: "Alex Martinez",
       role: "Member since 2023",
       rating: 5,
-      image: "/images/fitness/Smiling_gym_member_giving_a_thumbs_up_after_0.jpg",
+      image: "/images/Fitness studio images/pexels-pixabay-416717.jpg",
       text: "The group classes are incredibly motivating. Everyone pushes each other to do better. I've made great friends and improved my fitness level dramatically.",
       achievement: "10K run in under 45 minutes"
     }
@@ -102,7 +102,7 @@ export default function Testimonials() {
       <section className="relative py-20 bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/fitness/Modern_reception_desk_of_a_fitness_studio_w_0.jpg"
+            src="/images/Fitness studio images/pexels-thelazyartist-2247179.jpg"
             alt="Testimonials background"
             fill
             sizes="100vw"

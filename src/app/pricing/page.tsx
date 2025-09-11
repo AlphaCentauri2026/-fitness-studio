@@ -62,7 +62,7 @@ export default function Pricing() {
       <section className="relative py-20 text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/fitness/Dynamic_wideangle_photo_of_a_modern_fitness_2.jpg"
+            src="/images/Fitness studio images/pexels-leonardho-1552249.jpg"
             alt="Pricing background"
             fill
             sizes="100vw"

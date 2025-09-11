@@ -7,7 +7,7 @@ export default function Classes() {
       id: 1,
       title: "High-Intensity Training",
       description: "Push your limits with our intense HIIT workouts designed to burn maximum calories and build strength in minimal time.",
-      image: "/images/fitness/Energetic_fitness_class_in_session_people_d_0.jpg",
+      image: "/images/Fitness studio images/weight-lifting-1284616_1280.jpg",
       duration: "45 mins",
       level: "Intermediate to Advanced",
       schedule: "Mon, Wed, Fri - 6:00 AM & 7:00 PM",
@@ -18,7 +18,7 @@ export default function Classes() {
       id: 2,
       title: "Yoga & Flexibility",
       description: "Find balance and peace with our yoga classes that combine traditional poses with modern flexibility techniques.",
-      image: "/images/fitness/Calm_yoga_class_in_a_bright_studio_people_s_0.jpg",
+      image: "/images/Fitness studio images/woman-2260736_1280.jpg",
       duration: "60 mins",
       level: "All Levels",
       schedule: "Tue, Thu, Sat - 8:00 AM & 6:00 PM",
@@ -33,7 +33,7 @@ export default function Classes() {
       <section className="relative py-20 bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/fitness/Dynamic_wideangle_photo_of_a_modern_fitness_1.jpg"
+            src="/images/Fitness studio images/pexels-olly-3757941.jpg"
             alt="Classes background"
             fill
             sizes="100vw"

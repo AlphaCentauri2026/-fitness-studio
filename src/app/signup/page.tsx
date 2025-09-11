@@ -129,7 +129,7 @@ export default function SignUp() {
           {/* Image Section */}
           <div className="relative h-96 lg:h-[600px] rounded-lg overflow-hidden shadow-2xl fade-in-left">
             <Image
-              src="/images/fitness/Energetic_fitness_class_in_session_people_d_1.jpg"
+              src="/images/Fitness studio images/fitness-465205_1280.jpg"
               alt="Fitness studio signup"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"

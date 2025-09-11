@@ -88,7 +88,7 @@ export default function Trainers() {
       <section className="relative py-20 bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/fitness/Professional_group_portrait_of_fitness_trai_1.jpg"
+            src="/images/Fitness studio images/abs-1850926_1280.jpg"
             alt="Trainers background"
             fill
             sizes="100vw"

@@ -87,7 +87,7 @@ export default function Contact() {
       <section className="relative py-20 bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/fitness/Modern_reception_desk_of_a_fitness_studio_w_1.jpg"
+            src="/images/Fitness studio images/pexels-823sl-2294361.jpg"
             alt="Contact background"
             fill
             sizes="100vw"
@@ -114,7 +114,7 @@ export default function Contact() {
             <div className="fade-in-left">
               <div className="relative h-96 rounded-lg overflow-hidden shadow-2xl mb-8">
                 <Image
-                  src="/images/fitness/Modern_reception_desk_of_a_fitness_studio_w_2.jpg"
+                  src="/images/Fitness studio images/pexels-tima-miroshnichenko-5327509.jpg"
                   alt="Fitness studio contact"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
@@ -186,7 +186,7 @@ export default function Contact() {
               {/* Map Section */}
               <div className="relative h-64 rounded-lg overflow-hidden shadow-2xl">
                 <Image
-                  src="/images/fitness/Exterior_view_of_a_modern_fitness_studio_bu_1.jpg"
+                  src="/images/Fitness studio images/pexels-pixabay-414029.jpg"
                   alt="Studio location map"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"

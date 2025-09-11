@@ -7,7 +7,7 @@ export default function About() {
       <section className="relative py-20 bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/fitness/Exterior_view_of_a_modern_fitness_studio_bu_0.jpg"
+            src="/images/Fitness studio images/pexels-scottwebb-136404.jpg"
             alt="About background"
             fill
             sizes="100vw"
@@ -34,7 +34,7 @@ export default function About() {
             <div className="relative">
               <div className="relative h-96 lg:h-[500px] rounded-lg overflow-hidden shadow-2xl fade-in">
                 <Image
-                  src="/images/fitness/Professional_group_portrait_of_fitness_trai_3.jpg"
+                  src="/images/Fitness studio images/pexels-olly-917732.jpg"
                   alt="Fitness studio trainer"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"

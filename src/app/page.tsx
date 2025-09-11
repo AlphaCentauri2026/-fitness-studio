@@ -9,7 +9,7 @@ export default function Home() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/fitness/Dynamic_wideangle_photo_of_a_modern_fitness_0.jpg"
+            src="/images/Fitness studio images/gym-4817720_1280.jpg"
             alt="Fitness studio hero background"
             fill
             sizes="100vw"

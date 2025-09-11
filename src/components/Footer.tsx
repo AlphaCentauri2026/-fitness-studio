@@ -7,7 +7,7 @@ export default function Footer() {
       {/* Background Image */}
       <div className="absolute inset-0 opacity-50">
         <Image
-          src="/images/fitness/Modern_reception_desk_of_a_fitness_studio_w_3.jpg"
+          src="/images/Fitness studio images/pexels-olly-863926.jpg"
           alt="Fitness studio footer background"
           fill
           className="object-cover"
