@@ -49,7 +49,7 @@ export default function Navigation() {
                 <Link
                   key={link.href}
                   href={link.href}
-                  className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
+                  className={`px-3 py-2 rounded-md text-base font-bold transition-colors ${
                     isScrolled ? 'text-gray-900 hover:text-accent' : 'text-white hover:text-red-400'
                   }`}
                 >
@@ -104,7 +104,7 @@ export default function Navigation() {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`block px-3 py-2 rounded-md text-base font-medium transition-colors ${
+                className={`block px-3 py-2 rounded-md text-lg font-bold transition-colors ${
                   isScrolled ? 'text-gray-700 hover:text-accent hover:bg-gray-50' : 'text-white hover:text-red-400 hover:bg-white/10'
                 }`}
                 onClick={() => setIsMobileMenuOpen(false)}
